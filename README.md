@@ -1,1 +1,1 @@
-Aula sobre Git e Github
+# Repositório para faculdade.
