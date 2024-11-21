@@ -1,0 +1,55 @@
+.navbar {
+    img {
+        width: 250px;
+        height: 120px;
+        top: auto;
+        right: 150px;
+    }
+    background-color: #FF6BBA;
+    font-family: "Italianno", cursive;
+    font-weight: 400px;
+    font-style: normal;
+    font-size:x-large;
+}
+:link {
+    color: #fff;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration:none;
+}
+:visited {
+    color: #fff;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration:none;
+}
+a:hover {
+    color: #FF6BBA;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration: none;
+}
+.body {
+    width: 1490px;
+    background-color: #FFBDE0;
+}
+.titulo {
+    font-family: "Italianno", cursive;
+    font-size: medium;
+    text-align: center;
+    color: #fff;
+    margin: 50px;
+}
+.footer {
+    
+    background-color: #FFBDE0;
+    color: white;
+    text-align: left;
+    margin-top: 200px;
+  }

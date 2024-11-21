@@ -1,0 +1,79 @@
+.navbar {
+    background-color: #FF6BBA;
+}
+:link {
+    color: #fff;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration:none;
+}
+:visited {
+    color: #fff;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration:none;
+}
+a:hover {
+    color: #FF6BBA;
+    background-color: transparent;
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size:xx-large;
+    text-decoration: none;
+}
+.body {
+    background-color: #FFBDE0;
+    
+}
+.titulo {
+    font-family: "Italianno", cursive;
+    font-size: medium;
+    text-align: center;
+    color: #fff;
+    margin: 50px;
+}
+.texto {
+    font-family: "Italianno", cursive;
+    font-size:medium;
+    text-align: center;
+    color: #fff;
+}
+.footer {
+    margin-top: 200px;
+    text-align: center;
+    font-family: 'Italianno', cursive;
+    color: #FF6BBA;
+}
+.fundo {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+    img {
+        margin-left: 20px;
+        margin-right: 20px
+    }
+}
+.sinopse {
+    font-family: 'Italianno', cursive;
+    font-size:x-large;
+}
+.alerta {
+    background-color: #FF6BBA;
+    font-family: 'Italianno', cursive;
+    font-size:large
+}
+@media screen and (min-width:412px ) {
+    .sinopse {
+        img {
+            margin-left: 0%;
+        }
+    }
+    .p {
+        width: auto;
+        height: auto;
+    }
+}
